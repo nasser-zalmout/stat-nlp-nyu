@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Nasser
+   last: Zalmout
+email: nz658@nyu.edu
+leaderboard: Nasser
